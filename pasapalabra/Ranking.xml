@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rankina>
+  <Jokalaria id="0">
+    <izena>Mikel</izena>
+    <puntuazioa>60</puntuazioa>
+  </Jokalaria>
+  <Jokalaria id="1">
+    <izena>xabier</izena>
+    <puntuazioa>55</puntuazioa>
+  </Jokalaria>
+  <Jokalaria id="2">
+    <izena>mixa</izena>
+    <puntuazioa>51</puntuazioa>
+  </Jokalaria>
+  <Jokalaria id="3">
+    <izena>Aita</izena>
+    <puntuazioa>39</puntuazioa>
+  </Jokalaria>
+  <Jokalaria id="4">
+    <izena>Ieltzu</izena>
+    <puntuazioa>30</puntuazioa>
+  </Jokalaria>
+  <Jokalaria id="5">
+    <izena>mikel</izena>
+    <puntuazioa>28</puntuazioa>
+  </Jokalaria>
+  <Jokalaria id="6">
+    <izena>Xabier</izena>
+    <puntuazioa>26</puntuazioa>
+  </Jokalaria>
+  <Jokalaria id="7">
+    <izena>Xabi</izena>
+    <puntuazioa>6</puntuazioa>
+  </Jokalaria>
+</rankina>
