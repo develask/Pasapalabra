@@ -1,4 +1,4 @@
 Pasapalabra
 ===========
 
-Juego del pasapalabra (proyectp de 2 de carrera)
+Juego del pasapalabra (proyecto de 2º de carrera)
